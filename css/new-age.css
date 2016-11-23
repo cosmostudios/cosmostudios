@@ -380,6 +380,12 @@ section.contact ul.list-social li.social-facebook a {
 section.contact ul.list-social li.social-facebook a:hover {
   background-color: #344e86;
 }
+section.contact ul.list-social li.social-email a {
+  background-color: darkgray;
+}
+section.contact ul.list-social li.social-email:hover {
+  background-color: #9c9c9c;
+}
 section.contact ul.list-social li.social-google-plus a {
   background-color: #dd4b39;
 }

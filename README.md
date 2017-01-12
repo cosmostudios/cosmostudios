@@ -1,3 +1,23 @@
+# GUIDE
+
+To compile the CSS , Gulp js has to be installed, run:
+$ gulp
+
+To serve jekyll , run: 
+$ jekyll serve
+or 
+$ jekyll serve --detached
+
+then locate to: http://localhost:4000/
+
+
+
+
+
+
+
+
+
 # [Start Bootstrap](http://startbootstrap.com/) - [New Age](http://startbootstrap.com/template-overviews/new-age/)
 
 [New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
